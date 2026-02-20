@@ -43,7 +43,7 @@ Obiettivi principali: sensing retrocausale, rilevazione braiding anyonico in mic
   title        = {TET–CVTL NV-Spintronic Chip V1.0: Progettazione, Raffinamento Tecnico, Livelli Energetici e Strutture Iperfine},
   year         = {2026},
   month        = feb,
-  institution  = {Tet Collective},
-  url          = {https://github.com/PhysSoliman/TET-CVTL-NV-Chip-V1.0},
+  institution  = {Tetcollective.org},
+  url          = {https://github.com/TETcollective/TET-CVTL-NV-Chip-V1.0},
   note         = {tetcollective.org}
 }
