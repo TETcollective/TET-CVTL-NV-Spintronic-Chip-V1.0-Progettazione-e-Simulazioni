@@ -15,6 +15,9 @@ Piattaforma ibrida neuromorfico-spintronica con centri NV ultra-shallow, SAW str
 **Sito**: [tetcollective.org](https://tetcollective.org)  
 **Data**: Febbraio 2026
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18715952.svg)](https://doi.org/10.5281/zenodo.18715952)
+
 ## Descrizione
 
 Repository ufficiale del lavoro tecnico sul chip **TET–CVTL V1.0**, una piattaforma ibrida neuromorfico-spintronica per quantum sensing embodied nel framework **RENASCENT-Q**.  
